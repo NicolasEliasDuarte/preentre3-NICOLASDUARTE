@@ -1,0 +1,32 @@
+//BOTONES //
+.boton-inicio {
+    height: 55px;
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;
+    border-radius: 6px;
+    font-weight: 400;
+    background-color: #bf7534;
+    transition: all 0.2s ease;
+    &:hover{background-color: #f2b749;
+
+    }
+  }
+
+  .formularioboton1 {
+    background: linear-gradient(135deg, #bf7534, #fac96d);
+    height: 55px;
+    width: 200px;
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+  }
+  
+  .formularioboton2 {
+    background: linear-gradient(135deg, #bf7534, #fac96d);
+    height: 55px;
+    width: 150px;
+    font-size: 1.25rem;
+  }
+  

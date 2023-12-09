@@ -1,0 +1,35 @@
+// SECTION //
+
+.secundaria {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1.25rem;
+    font-family: sans-serif;
+  }
+  
+  .MetodosP {
+    background-color: #bf7534;
+    border-radius: 5px;
+  }
+  
+  .MetodosE {
+    background-color: #bf7534;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  
+  .secundaria ul li {
+    list-style: circle;
+  
+    a:hover {
+      text-decoration: underline;
+      color: white;
+    }
+  }
+  
+  .MetodosE h4, .MetodosP h4 {
+    font-size: xx-large;
+  }
+  

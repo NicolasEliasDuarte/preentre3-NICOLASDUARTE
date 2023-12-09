@@ -1,0 +1,53 @@
+// CONTACTO //
+
+.formulario {
+    font-family: sans-serif;
+    font-weight: 1.5rem;
+    text-transform: uppercase;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #bf7534, #fac96d);
+    padding: 20px;
+  }
+  
+  .cajaformulario {
+    position: relative;
+    max-width: 700px;
+    width: 100%;
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  
+    form {
+      margin-top: 30px;
+    }
+  }
+  
+  form .cajaform {
+    width: 100%;
+    margin-top: 20px;
+  
+    input {
+      position: relative;
+      height: 50px;
+      width: 90%;
+      margin-top: 8px;
+      border: 1px solid #ddd;
+      font-size: 1rem;
+      color: #707070;
+      padding: 0 15px;
+      border-radius: 6px;
+    }
+  }
+  textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  
+    width: 100%;
+   
+  }
+  
