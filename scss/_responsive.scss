@@ -362,6 +362,7 @@
     grid-area: areaaves12
   }
    }
+
   
   
    @media (max-width: 480px ){
@@ -393,6 +394,9 @@
       padding: 1.25rem;
       font-family: sans-serif;
       text-align: center;
+    }
+    .refugio{
+      font-size: x-small;
     }
   footer  {
     flex-direction: column;
